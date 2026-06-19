@@ -1,4 +1,4 @@
-# 🚀 DSA & LeetCode 2000+ Solutions
+# 🚀 DSA & LeetCode 200+ Solutions
 
 <div align="center">
   <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />
@@ -7,7 +7,7 @@
 </div>
 
 ## About The Repository
-This repository contains a comprehensive, highly-optimized collection of over 2000+ Data Structures and Algorithms solutions for LeetCode problems. Each solution is rigorously tested and optimized for Time and Space Complexity.
+This repository contains a comprehensive, highly-optimized collection of over 200+ Data Structures and Algorithms solutions for LeetCode problems. Each solution is rigorously tested and optimized for Time and Space Complexity.
 
 - **Arrays & Hashing**
 - **Two Pointers**
